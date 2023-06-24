@@ -1,6 +1,6 @@
 # Polygon_Collider_Visualizer
 
-A javascrpit program that utilizes three.js for graphical interface and GJK algorithim to detect 
+A javascript program that utilizes three.js for graphical interface and GJK algorithim to detect 
 the collision between two 3D convex  polygon, the GJK algo is so powerful that is you only need 
 the vertices to two polygon to check the collision.
 
